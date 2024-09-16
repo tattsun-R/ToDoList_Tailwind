@@ -1,9 +1,9 @@
 <script setup>
-import TodoInput from './TodoInput.vue';
-import TodoListView from './TodoListView.vue';
+import TodoInput from "./TodoInput.vue";
+import TodoListView from "./TodoListView.vue";
 </script>
 
 <template>
-    <TodoInput></TodoInput>
-    <TodoListView></TodoListView>
+  <TodoInput></TodoInput>
+  <TodoListView></TodoListView>
 </template>

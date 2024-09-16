@@ -1,5 +1,5 @@
 <script setup>
-import TodoApp from './components/TodoApp.vue';
+import TodoApp from "./components/TodoApp.vue";
 </script>
 
 <template>
@@ -8,6 +8,4 @@ import TodoApp from './components/TodoApp.vue';
   </main>
 </template>
 
-<style scoped>
-
-</style>
+<style scoped></style>
